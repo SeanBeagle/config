@@ -3,7 +3,7 @@
 ```bash
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
-### Edit **~/.vimrc**:
+#### `~/.vimrc`
 ```markdown
 set nocompatible
 filetype off
