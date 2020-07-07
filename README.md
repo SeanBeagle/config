@@ -1,9 +1,9 @@
 # vimrc
-
+#### **INSTALL Vundle**
 ```bash
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
-- #### **EDIT ~/.vimrc**
+#### **EDIT ~/.vimrc**
 ```markdown
 set nocompatible
 filetype off
