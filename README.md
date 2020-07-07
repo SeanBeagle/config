@@ -1,4 +1,5 @@
 # vimrc
+>This is an adaptation from [this blog post](https://medium.com/@kpereksta/setting-up-a-c-development-environment-with-vim-on-debian-ea42d5b810)
 #### **INSTALL Vundle**
 ```bash
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
